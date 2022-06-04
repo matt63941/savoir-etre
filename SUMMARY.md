@@ -4,10 +4,10 @@
 
 * [Souffrir et faire souffrir](README.md)
 * [Les conditions humaines](identifier-le-probleme-humain/les-conditions-humaines.md)
-* [Les stratégies d'apaisement de l'esprit](identifier-le-probleme-humain/les-strategies-dapaisement-de-lesprit/README.md)
-  * [Religion](identifier-le-probleme-humain/les-strategies-dapaisement-de-lesprit/religion.md)
-  * [Philosophie](identifier-le-probleme-humain/les-strategies-dapaisement-de-lesprit/philosophie.md)
-  * [Spiritualité](identifier-le-probleme-humain/les-strategies-dapaisement-de-lesprit/spiritualite.md)
+* [Les stratégies de salut](le-probleme-humain/les-strategies-de-salut/README.md)
+  * [Religion](le-probleme-humain/les-strategies-de-salut/religion.md)
+  * [Philosophie](le-probleme-humain/les-strategies-de-salut/philosophie.md)
+  * [Spiritualité](le-probleme-humain/les-strategies-de-salut/spiritualite.md)
 
 ## Examiner l'existence
 
