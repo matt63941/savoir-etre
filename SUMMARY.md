@@ -4,10 +4,10 @@
 
 * [Souffrir et faire souffrir](README.md)
 * [Les conditions humaines](identifier-le-probleme-humain/les-conditions-humaines.md)
-* [Les stratégies de salut](le-probleme-humain/les-strategies-de-salut/README.md)
-  * [Religion](le-probleme-humain/les-strategies-de-salut/religion.md)
-  * [Philosophie](le-probleme-humain/les-strategies-de-salut/philosophie.md)
-  * [Spiritualité](le-probleme-humain/les-strategies-de-salut/spiritualite.md)
+* [Les stratégies de compensation](le-probleme-humain/les-strategies-de-compensation/README.md)
+  * [Religion](le-probleme-humain/les-strategies-de-compensation/religion.md)
+  * [Philosophie](le-probleme-humain/les-strategies-de-compensation/philosophie.md)
+  * [Spiritualité](le-probleme-humain/les-strategies-de-compensation/spiritualite.md)
 
 ## Examiner l'existence
 
