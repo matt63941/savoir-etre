@@ -2,12 +2,12 @@
 
 ## Le problème humain
 
-* [La complexité psychologique](README.md)
-* [Les conditions humaines](le-probleme-humain/les-conditions-humaines.md)
-* [Les stratégies d'apaisement de l'esprit](le-probleme-humain/les-strategies-dapaisement-de-lesprit/README.md)
-  * [Religion](le-probleme-humain/les-strategies-dapaisement-de-lesprit/religion.md)
-  * [Philosophie](le-probleme-humain/les-strategies-dapaisement-de-lesprit/philosophie.md)
-  * [Spiritualité](le-probleme-humain/les-strategies-dapaisement-de-lesprit/spiritualite.md)
+* [Objectif](README.md)
+* [Les conditions humaines](identifier-le-probleme-humain/les-conditions-humaines.md)
+* [Les stratégies d'apaisement de l'esprit](identifier-le-probleme-humain/les-strategies-dapaisement-de-lesprit/README.md)
+  * [Religion](identifier-le-probleme-humain/les-strategies-dapaisement-de-lesprit/religion.md)
+  * [Philosophie](identifier-le-probleme-humain/les-strategies-dapaisement-de-lesprit/philosophie.md)
+  * [Spiritualité](identifier-le-probleme-humain/les-strategies-dapaisement-de-lesprit/spiritualite.md)
 
 ## Examiner l'existence
 
