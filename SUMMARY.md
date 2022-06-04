@@ -12,7 +12,7 @@
 ## Examiner l'existence
 
 * [La nature humaine ?](examiner-lexistence/la-nature-humaine.md)
-* [Intégration dans l'environnement](examiner-lexistence/integration-dans-lenvironnement.md)
+* [L'environnement naturel](examiner-lexistence/lenvironnement-naturel.md)
 * [Espace mental : perception et imagination](examiner-lexistence/espace-mental-perception-et-imagination.md)
 
 ## Structurer l'esprit
