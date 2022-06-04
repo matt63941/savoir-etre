@@ -1,4 +1,4 @@
-# L'environnement naturel
+# Intégration dans l'environnement
 
 Hypothèse principale : la souffrance mentale provient de l’usage incorrect de l'espace mental
 

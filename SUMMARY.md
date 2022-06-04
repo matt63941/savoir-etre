@@ -2,7 +2,7 @@
 
 ## Le problème humain
 
-* [Objectif](README.md)
+* [Souffrir et faire souffrir](README.md)
 * [Les conditions humaines](identifier-le-probleme-humain/les-conditions-humaines.md)
 * [Les stratégies d'apaisement de l'esprit](identifier-le-probleme-humain/les-strategies-dapaisement-de-lesprit/README.md)
   * [Religion](identifier-le-probleme-humain/les-strategies-dapaisement-de-lesprit/religion.md)
